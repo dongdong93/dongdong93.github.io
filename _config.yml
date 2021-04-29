@@ -83,11 +83,11 @@ author:
   name             : "About Me"
   avatar           : "profile.png"
   bio              : "A 3rd-year Ph.D. student"
-  location         : "Location"
+  location         : "Adelaide"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=EZ38260AAAAJ&hl=en&oi=ao"
-  email            : "yutong(dot)dai(at)adeladie(dot)edu(dot)au"
+#   email            : "yutong(dot)dai(at)adeladie(dot)edu(dot)au"
   researchgate     : "https://www.researchgate.net/profile/Yutong Dai"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/dongdong93"
+  github           : "dongdong93"
   google_plus      :
   keybase          :
   instagram        :
