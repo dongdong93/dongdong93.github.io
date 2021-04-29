@@ -6,7 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2021
 venue: 'CVPR'
 paperurl: 'https://arxiv.org/pdf/2011.14288.pdf'
-citation: '*Yutong Dai*, Hao Lu, Chunhua Shen. (2021).  <i>CVPR</i>. 1(1).'
+citation: 'Yutong Dai, Hao Lu, Chunhua Shen. (2021).  <i>CVPR</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
