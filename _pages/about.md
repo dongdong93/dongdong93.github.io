@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yutong Dai(戴雨彤)"
+title: "Yutong Dai 戴雨彤"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
