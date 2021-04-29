@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Yutong Dai"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, The University of Adelaide, Australia, 2018-2022
+* Ph.D. in Computer Science, The University of Adelaide, Australia, 2018-2022
 * M.S. in Instrument Science and Technology, Southeast University, China, 2015-2018
 * B.S. in Electrical Engineering and Automation, Nanjing Normal University, China, 2011-2015
 
@@ -18,15 +18,6 @@ Experience
 ======
 * Tutor: University of Adelaide, 08.2019-03.2021
 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -34,8 +25,12 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+  
+Skills
+======
 
   
-Service and leadership
+Service
 ======
 * Reviewer for CVPR2021, ICCV2021
+
