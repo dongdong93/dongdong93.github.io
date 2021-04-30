@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Towards Light-Weight Deep Portrait Matting via Parameter Sharing"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'This paper is about deep portrait matting.'
+date: 2021-02-01
+venue: 'Computer Graphics Forum'
+paperurl: 'https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14179'
+citation: 'Yutong Dai, Hao Lu, Chunhua Shen. (2021). &quot;Towards Light-Weight Deep Portrait Matting via Parameter Sharing.&quot; <i>CGF</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This paper is about deep portrait matting.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://onlinelibrary.wiley.com/doi/pdf/10.1111/cgf.14179)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yutong Dai 戴雨彤"
+title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -25,10 +25,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  
-Skills
-======
-
   
 Service
 ======
