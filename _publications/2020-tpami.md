@@ -12,4 +12,4 @@ This paper is about upsampling operators for dense prediction tasks.
 
 [Download paper here](https://ieeexplore.ieee.org/abstract/document/9123580)
 
-Recommended citation: Hao Lu, Yutong Dai, Chunhua Shen, Songceng Xu. (2020). "Index Networks." <i>TPAMI</i>. 1(3).
+Recommended citation: Hao Lu, Yutong Dai, Chunhua Shen, Songceng Xu. (2020). "Index Networks." <i>TPAMI</i>. 2020.
