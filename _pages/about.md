@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am a 3rd-year Ph.D. student majored in Computer Science with the University of Adelaide, under the supervision of [Prof. Chunhua Shen](https://cshen.github.io/). My research focuses on computer vision with its application on dense prediction, such as image matting, human matting, semantic segmentation, denoising. I am anticipated to graduate in 2022. 
+
 Email: yutong(dot)dai(at)adelaide(dot)edu(dot)au
 
 Education
