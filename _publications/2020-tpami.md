@@ -6,7 +6,7 @@ excerpt: 'This paper is about upsampling operators for dense prediction tasks.'
 date: 2020-08-01
 venue: 'TPAMI'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9123580'
-citation: 'Hao Lu, Yutong Dai, Chunhua Shen, Songceng Xu. (2020). &quot;Index Networks.&quot; <i>TPAMI</i>. 1(3).'
+citation: 'Hao Lu, Yutong Dai, Chunhua Shen, Songceng Xu. (2020). &quot;Index Networks.&quot; <i>TPAMI</i>. 2020.'
 ---
 This paper is about upsampling operators for dense prediction tasks.
 
