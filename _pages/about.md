@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 3rd-year Ph.D. student majored in Computer Science with the University of Adelaide, under the supervision of [Prof. Chunhua Shen](https://cshen.github.io/). My research focuses on computer vision with its application on image editing, such as image matting, human matting, denoising. 
+I am a 3rd-year Ph.D. student majored in Computer Science with the University of Adelaide, under the supervision of [Prof. Chunhua Shen](https://cshen.github.io/). I will graduate in 2022. My research focuses on computer vision with its application on image editing, such as image matting, human matting, denoising. 
 
 Education
 ======
