@@ -19,7 +19,8 @@ Education
 
 Experience
 ======
-* Tutor: University of Adelaide, 08.2019-03.2021
+* Tutor, University of Adelaide, 08.2019-03.2021
+* Teaching Assistant, Southeast University, 09.2015-12.2015
 
 
 Publications
