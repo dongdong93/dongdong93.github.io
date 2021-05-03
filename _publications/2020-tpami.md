@@ -11,4 +11,6 @@ This paper is about upsampling operators for dense prediction tasks.
 
 [paper](https://ieeexplore.ieee.org/abstract/document/9123580)
 
+[code](https://github.com/poppinace/indexnet_matting)
+
 Recommended citation: Hao Lu, Yutong Dai, Chunhua Shen, Songceng Xu. (2020). "Index Networks." <i>TPAMI</i>. 2020.
