@@ -1,7 +1,7 @@
 ---
 title: "Index Networks"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2020-08-01-IndexNet
 excerpt: 'This paper is about upsampling operators for dense prediction tasks.'
 date: 2020-08-01
 venue: 'TPAMI'
