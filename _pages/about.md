@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a postdoctoral researcher at [Australian Institute for Machine Learning](https://www.adelaide.edu.au/aiml/), funded by [Centre for Augmented Reasoning](https://www.adelaide.edu.au/aiml/car). I obtained my PhD degree at School of Computer Science, The University of Adelaide, under the supervision of [Prof. Chunhua Shen](https://cshen.github.io/). My current major research interests are about computer vision with its application on dense prediction(such as matting, segmentation) and data effcient learning(such as continual learning, unsupervised learning).
+I am currently a postdoctoral researcher at [Australian Institute for Machine Learning(AIML)](https://www.adelaide.edu.au/aiml/), funded by [Centre for Augmented Reasoning(CAR)](https://www.adelaide.edu.au/aiml/car). I obtained my PhD degree at School of Computer Science, The University of Adelaide, under the supervision of [Prof. Chunhua Shen](https://cshen.github.io/). My current major research interests are about computer vision with its application on dense prediction (such as matting, segmentation) and data effcient learning (such as continual learning, unsupervised learning).
 
 Email: yutong(dot)dai(at)adelaide(dot)edu(dot)au
 
