@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yutong Dai"
+title                    : "Yutong Dai/Dr."
 title_separator          : "-"
 name                     : &name "Yutong Dai"
 description              : &description "personal description"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yutong Dai"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher"
-  location         : "Adelaide"
+  bio              : "Researcher"
+  location         : 
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=EZ38260AAAAJ&hl=en&oi=ao"
