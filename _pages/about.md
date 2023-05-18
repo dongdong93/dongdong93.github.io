@@ -7,21 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a postdoctoral researcher at [Australian Institute for Machine Learning(AIML)](https://www.adelaide.edu.au/aiml/), funded by [Centre for Augmented Reasoning(CAR)](https://www.adelaide.edu.au/aiml/car). I obtained my PhD degree at School of Computer Science, The University of Adelaide, under the supervision of [Prof. Chunhua Shen](https://cshen.github.io/). My current major research interests are about computer vision with its application on dense prediction (such as matting, segmentation) and data effcient learning (such as continual learning, unsupervised learning).
+I obtained my PhD degree at School of Computer Science, The University of Adelaide, under the supervision of [Prof. Chunhua Shen](https://cshen.github.io/). My major research interests are about computer vision with its application on dense prediction and data-effcient learning.
 
 Email: yutong(dot)dai2023(at)outlook(dot)com
 
 Education
 ======
-* Ph.D. in Computer Science, The University of Adelaide, Australia, 2018-2022
-* M.S. in Instrument Science and Technology, Southeast University, China, 2015-2018
-* B.S. in Electrical Engineering and Automation, Nanjing Normal University, China, 2011-2015
+* Ph.D., The University of Adelaide, Australia, 2018-2022
+* M.S., Southeast University, China, 2015-2018
+* B.S., Nanjing Normal University, China, 2011-2015
 
 Experience
 ======
-* Research Intern, Adobe Research, 05.2021-11.2021
-* Student Tutor, University of Adelaide, 08.2019-03.2021
-* Teaching Assistant, Southeast University, 09.2015-12.2015
+* Postdoctoral Researcher, Australian Institute for Machine Learning(AIML), 2022-2023
+* Research Intern, Adobe Research, 2021
+* Student Tutor, University of Adelaide, 2019-2021
+* Teaching Assistant, Southeast University, 2015
 
 
 Publications
@@ -33,5 +34,5 @@ Publications
   
 Services
 ======
-* Reviewer for CVPR'21,22,23, ICCV'21, ECCV'22, AAAI'22,23, TMM, TPAMI, TCSVT
+* Reviewer for CVPR'21,22,23, ICCV'21, ECCV'22, AAAI'22,23, ACMMM'23, ACML'23, TMM, TPAMI, TCSVT, IJCV
 
