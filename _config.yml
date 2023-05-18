@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yutong Dai/Dr."
+title                    : "Yutong Dai / Dr."
 title_separator          : "-"
 name                     : &name "Yutong Dai"
 description              : &description "personal description"
